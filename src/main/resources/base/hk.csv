@@ -1,0 +1,9 @@
+id,serial_no,model,sw_count,setup_payload,FILENAME1,FILENAME2,burned*,passed_test*,printed*
+1,20200919001,1,1,X-HM://008JP64PSNPBV,sw-1.bin,sw-1.bin,0,,
+2,20200919002,1,1,X-HM://008JOTQ4FE3S5,sw-2.bin,sw-2.bin,0,,
+3,20200919003,2,2,X-HM://008IQWGRXMWIX,sw-3.bin,sw-3.bin,0,,
+4,20200919004,2,2,X-HM://008JYV6868EVY,sw-4.bin,sw-4.bin,0,,
+5,20200919005,3,3,X-HM://008J0QK9R6W9O,sw-5.bin,,0,,
+6,20200919006,3,3,X-HM://008INTH35P0AB,sw-6.bin,,0,,
+7,20200919007,3,3,X-HM://008J5WM58ZFRR,sw-7.bin,,0,,
+8,20200919008,4,4,X-HM://008J8HFNAQCLY,sw-8.bin,,0,,

@@ -1,0 +1,7 @@
+sw,hex
+a.bin,0x120000
+b.bin,0x230000
+c.bin,0x340000
+d.bin,0x450000
+FILENAME1,0x560000
+FILENAME2,0x670000

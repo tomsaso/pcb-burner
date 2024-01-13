@@ -1,0 +1,6 @@
+__pycache__
+venv
+*.log
+target
+pcbenv
+.DS_Store

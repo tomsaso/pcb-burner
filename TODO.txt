@@ -1,0 +1,5 @@
+- display 'REBOOTING - (DO NOT INTERUPT POWER)' for 30s
+* verify hex addresses
+
+- LATER: display model burned count (and also maintain/update in CSV)
+- LATER: update printed in CSV upon completion
